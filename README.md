@@ -12,4 +12,9 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 Currently wrapping up the penultimate day of the challenge. I've been taking notes in a local text file; and I'm going to organize my thoughts, experiences, and reflections and add them to this README as a case study soon.
 
 ## What did I do? ⚙️
-Bullet-point list of tasks accompished to appear here.
+- Spun up an Ubuntu Server 20.04 instance on AWS
+- Secured the virtual machine with public key
+  - Streamlined SSH connection with `.ssh/config`
+- Hardened VM with `ufw`
+- Using Vim, added/deleted users; adjusted file permissions
+- Installed Apache2 web server
