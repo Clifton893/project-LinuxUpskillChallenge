@@ -9,7 +9,7 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 <!-- ![statusbadge](https://img.shields.io/badge/status-completed-success?style=for-the-badge) -->
 
 #### 09-14-2021 
-Currently wrapping up the penultimate day of the challenge. I've been taking notes in a local text file; and I'm going to organize my thoughts, experiences, and reflections and add them to this README as a case study soon.
+Wrapping up the final day of the challenge. Will organize my thoughts and publish them as `CASESTUDY.md` in this repo, and edit the repo for readability.
 
 ## What did I do? ⚙️
 - Spun up an Ubuntu Server 20.04 instance on AWS
