@@ -18,3 +18,4 @@ Wrapping up the final day of the challenge. Will organize my thoughts and publis
 - Hardened VM with `ufw`
 - Using Vim, added/deleted users; adjusted file permissions
 - Installed Apache2 web server
+- Wrote a bash script to log attacker IPs
