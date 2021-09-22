@@ -8,8 +8,8 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 ![statusbadge](https://img.shields.io/badge/status-in--progress-blue?style=for-the-badge)
 <!-- ![statusbadge](https://img.shields.io/badge/status-completed-success?style=for-the-badge) -->
 
-#### 09-15-2021 
-Finished the challenge! Will organize my thoughts and publish them as `CASESTUDY.md` in this repo, and edit the repo for readability.
+#### 09-22-2021 
+Finished the challenge! Just initialized [CASESTUDY.md](https://github.com/Clifton893/project-LinuxUpskillChallenge/blob/main/CASESTUDY.md) which is a work-in-progress, but almost finished. After that, I will add some finishing touches to this repo for improved readability.
 
 ## What did I do? ⚙️
 - Spun up an Ubuntu Server 20.04 instance on AWS
