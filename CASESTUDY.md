@@ -5,9 +5,9 @@
 - Intro
 - Methods
 - Learning
-- Conclusion
   - Breakthroughs
   - Room for improvement
+- Conclusion
 
 ## Intro
 [Always save your intro for last]
