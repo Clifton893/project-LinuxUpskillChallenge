@@ -17,7 +17,7 @@ As a casual Ubuntu user for a decade, I had been looking for exercises to better
 
 After some searching, I found something called the “Linux Upskill Challenge,” which caught my attention. Originally a paid course, it was now a free, month-long exercise in remotely administering an Ubuntu Server instance.
 
-The way it was set up, “students” studied/performed an activity and themed lesson each weekday, over the span of a month. Rather than dally and take my time, I finished in [x days].
+The way it was set up, “students” studied/performed an activity and themed lesson each weekday, over the span of a month. Rather than dally and take my time, I finished in a little over a week.
 
 Basically, each “day’s” lesson consists of a set of tasks, a relevant glossary, and extended reading links, all accompanied by a video for additional context.
 
