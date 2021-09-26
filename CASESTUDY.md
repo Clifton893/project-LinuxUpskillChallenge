@@ -31,3 +31,5 @@ Another first was using SSH, and this project was a great way to get my hands co
 Opening all your ports (as per instruction) was another fun change of pace. Going into `auth.log` and `journalctl` and seeing the thousands of would-be attackers was neat, and helps drive home just how hostile the Internet is.
 
 Sending files over SFTP, installing an Apache web server, and configuring `ufw` were also super-useful utilities to get some practice with, too.
+
+This course also made me much more comfortable with using Vim. Prior to this exercise, I hadn't used the editor outside of a few tutorial websites; but I'm way more comfortable with it now.
