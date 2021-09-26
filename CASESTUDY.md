@@ -1,14 +1,6 @@
 # Case Study: Linux Upskill Challenge
 [ Description ]
 
-### Outline
-- Intro
-- Methods
-- Learning
-  - Breakthroughs
-  - Room for improvement
-- Conclusion
-
 ## Intro
 [Always save your intro for last]
 
