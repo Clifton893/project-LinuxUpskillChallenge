@@ -25,3 +25,6 @@ Opening all your ports (as per instruction) was another fun change of pace. Goin
 Sending files over SFTP, installing an Apache web server, and configuring `ufw` were also super-useful utilities to get some practice with, too.
 
 This course also made me much more comfortable with using Vim. Prior to this exercise, I hadn't used the editor outside of a few tutorial websites; but I'm way more comfortable with it now.
+
+## Conclusion
+Overall, this was a great little exercise in dipping my toes into remotely administering a Linux server. Simple but effective, the hands-on approach succeeds in pushing you out of your comfort zone and expanding your familiarity and toolset.
