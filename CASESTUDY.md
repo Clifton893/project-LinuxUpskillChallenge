@@ -2,7 +2,7 @@
 [ Description ]
 
 ## Intro
-[Always save your intro for last]
+While searching for more ways to up my ability to use Linux, I found a subreddit dedicated to the Linux Upskill Challenge, an exercise aimed at beginner system administration skills. Looking over the challenge's [GitHub repo](), it seemed like a perfect little exercise to occupy me for two weeks.
 
 ## Methods
 As a casual Ubuntu user for a decade, I had been looking for exercises to better myself at system administration (particularly at the CLI level).
