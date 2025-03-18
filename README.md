@@ -12,6 +12,8 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 - Secured the virtual machine with public key
   - Streamlined SSH connection with `.ssh/config`
 - Hardened VM with `ufw`
-- Using Vim, added/deleted users; adjusted file permissions
+- Using Vim, added/deleted users; adjusted file permissions and transferred files with SFTP
 - Installed Apache2 web server
 - Wrote a bash script to log attacker IPs
+
+[Read the case study here.](https://github.com/Clifton893/project-LinuxUpskillChallenge/blob/main/CASESTUDY.md)
